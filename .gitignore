@@ -1,0 +1,19 @@
+# Prerequisites
+*.d
+
+# Object files
+/obj
+*.cache
+
+# Linker output
+
+# Precompiled Headers
+
+# Libraries
+
+# Shared objects (inc. Windows DLLs)
+
+
+# Executables
+/bin
+*.exe
