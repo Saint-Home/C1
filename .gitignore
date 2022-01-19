@@ -1,8 +1,11 @@
 # Prerequisites
 *.d
+*.log
+*.suo
+
 
 # Object files
-/obj
+obj/
 *.cache
 
 # Linker output
